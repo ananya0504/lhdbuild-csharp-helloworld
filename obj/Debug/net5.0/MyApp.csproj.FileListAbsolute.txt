@@ -1,0 +1,16 @@
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\MyApp.exe
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\MyApp.deps.json
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.json
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.dev.json
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\MyApp.dll
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\ref\MyApp.dll
+D:\MLH\MLH_BUILD\MyApp\bin\Debug\net5.0\MyApp.pdb
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.csprojAssemblyReference.cache
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfoInputs.cache
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfo.cs
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.csproj.CoreCompileInputs.cache
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.dll
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\ref\MyApp.dll
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.pdb
+D:\MLH\MLH_BUILD\MyApp\obj\Debug\net5.0\MyApp.genruntimeconfig.cache
